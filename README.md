@@ -7,7 +7,7 @@ Manual de Instalación
 1.- Instalar de app en XAMPP 8.2.4
 https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.2.4/xampp-windows-x64-8.2.4-0-VS16-installer.exe
 
-2.- Descargar fichero proyecto desde github y desplegar en la direccion C:/xampp/htdocs
+2.- Descargar fichero del proyecto desde github https://github.com/israeliqq/FormularioVotacion/ y desplegar en la direccion C:/xampp/htdocs
 
 3.- Inciar la aplicación XAMPP e inciar los servicios de Apache y MySQL.
 
